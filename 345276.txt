@@ -1,4 +1,2 @@
 Drugi plik
 Branch testowy
-
-druga zmiana
