@@ -7,3 +7,5 @@ teścik2
 main
 
 edytowany komentarz
+
+Nowa wersja pliku

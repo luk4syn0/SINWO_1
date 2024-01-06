@@ -3,3 +3,5 @@ Branch testowy
 
 
 Edycja przez drugą osobę
+
+Poprawiony plik
