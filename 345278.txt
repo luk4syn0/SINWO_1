@@ -9,3 +9,5 @@ main
 edytowany komentarz
 
 Nowa wersja pliku
+
+Zmiana w main
