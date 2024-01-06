@@ -1,2 +1,5 @@
 testowy plik dla cwiczenia 2
 pierwsza zmiana
+
+teścik
+teścik2
